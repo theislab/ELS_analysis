@@ -1,7 +1,7 @@
 #CUSTOM
 data/
 results/
-figures/
+#figures/
 table/
 *.h5ad
 *.h5
