@@ -1,10 +1,13 @@
 #CUSTOM
 data/
 results/
-#figures/
+figures/
 table/
 *.h5ad
 *.h5
+*.pdf
+*.cmd
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
